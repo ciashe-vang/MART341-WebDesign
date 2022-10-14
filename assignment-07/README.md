@@ -1,0 +1,2 @@
+1.) I have come across many forms, for example, on a restaurant that I'm interested in, I'll look for the hours they are open, and usually they have a special catering form that people can submit. If not a restaurant, then clothing websites will always have some sort of comment section where people can review the clothes.
+2.) Their purposes are really helpful as they inform the reader and generally answers any questions that they have. 
