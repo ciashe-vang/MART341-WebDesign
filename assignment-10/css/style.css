@@ -1,0 +1,66 @@
+body {
+  background-color: #e1cb9f;
+  font-family: Lemon Milk;
+  text-align: center;
+}
+
+ div {
+   border: 5px solid #919b80;
+   display: inline-block;
+ }
+
+ img {
+   border-radius:50%;
+   border: 10px solid #F7CAC9;
+ }
+
+.unique {
+  background-color: #ad98d1;
+  height: 1100px;
+  width: 1100px;
+  display: inline-block;
+}
+
+#title {
+  font-size: 15px;
+  background-color: #9fb5e1;
+  color: #000000;
+  margin: auto;
+  padding: 20px;
+ }
+
+ .palette {
+   background-color: white;
+   text-align: center;
+   width: 800px;
+ }
+
+ .dot {
+   height: 100px;
+   width: 100px;
+   border-radius: 50%;
+   display: inline-block;
+ }
+
+ .dot.one {
+   background-color: #903d2c;
+ }
+
+ .dot.two {
+   background-color: #af6f5d;
+ }
+
+ .dot.three {
+   background-color: #dd8382;
+ }
+
+ .dot.four {
+   background-color: #321913;
+ }
+
+#square {
+  height: 100px;
+  width: 100px;
+  background-color: #dcd4e1
+  display: inline-block;
+}
