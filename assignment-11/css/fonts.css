@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'LEMONMILK';
+    src: url('../fonts/LEMONMILK-LightItalic.otf') format('truetype');
+    font-style: normal;
+ }
+ @font-face {
+    font-family: 'OldStandard';
+    src: url('../fonts/OldStandard-Italic.ttf') format('truetype');
+    font-weight: 700;
+ }
+
+ @font-face {
+   font-family: 'LEMONMILK';
+   src: url('../fonts/LEMONMILK-LightItalic.otf') format('truetype');
+   font-style: normal;
+}
+@font-face {
+   font-family: 'OldStandard';
+   src: url('../fonts/LEMONMILK-LightItalic.otf') format('truetype');
+   font-weight: 700;
+}

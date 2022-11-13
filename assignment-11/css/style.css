@@ -1,0 +1,79 @@
+#header{
+    background-image: url("../images/violet.3.jpg");
+}
+
+h1{
+    color: #333;
+    font-family: OldStandard;
+    font-size: 100px;
+    letter-spacing: 0.3em;
+}
+
+#title:hover{
+    letter-spacing: 1em;
+    font-weight: 700;
+    color: #90c0ee;
+}
+
+.titleBorder{
+    height: 250px;
+    background-color: black;
+    color: black;
+}
+
+.titleBorder:hover{
+    background-color: #50C878;
+    color: #333;
+    text-indent: 11em;
+    font-family: OldStandard;
+}
+
+.subtitle{
+    padding-top: 50px;
+    font-size: 75px;
+    margin: auto;
+}
+
+.content-paragraph{
+    margin: auto;
+    color: #333;
+    font-size: 20px;
+    line-height: 26px;
+    max-width: 640px;
+    font-family: LightItalicLEMON;
+}
+
+.content-paragraph:first-line{
+    font-size: 30px;
+    font-family: OldStandard;
+    line-height: 30px;
+}
+
+.poem-link{
+    text-decoration: none;
+    color: #7d7fa8;
+}
+.poem-link:hover{
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+.poem-link:visited{
+    color: #9597b8;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-left: 500px;
+}
+
+img {
+    border: 20px solid #9597b8;
+}
+
+#img-link:hover{
+    border: 50px solid #9597b8;
+}
