@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'LEMONMILK';
+    src: url('../fonts/LEMONMILK-Medium.otf') format('truetype');
+    font-style: normal;
+ }
+ @font-face {
+    font-family: 'OldStandard';
+    src: url('../fonts/OldStandard-Regular.ttf') format('truetype');
+    font-weight: 700;
+ }
+
+ @font-face {
+   font-family: 'LEMONMILK';
+   src: url('../fonts/LEMONMILK-Medium.otf') format('truetype');
+   font-style: normal;
+}
+@font-face {
+   font-family: 'OldStandard';
+   src: url('../fonts/OldStandard-Medium.ttf') format('truetype');
+   font-weight: 700;
+}
