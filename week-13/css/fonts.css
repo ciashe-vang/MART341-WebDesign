@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'LEMONMILK';
+    src: url('../fonts/LEMONMILK-Light.otf') format('truetype');
+    font-style: normal;
+ }
+ @font-face {
+    font-family: 'Game of Thrones';
+    src: url('../fonts/Game of Thrones.ttf') format('truetype');
+    font-weight: 700;
+ }
+
+ 
