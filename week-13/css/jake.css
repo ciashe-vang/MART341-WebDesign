@@ -11,14 +11,13 @@ img {
 
  #title {
    font-size: 15px;
+   color: #A64253;
    background-color: #93B7BE;
-   color: #CCBA78;
    margin: auto;
    padding: 10px;
   }
 .content-paragraph{
       margin: auto;
-      color: #black;
       font-size: 20px;
       line-height: 26px;
       max-width: 800px;

@@ -1,6 +1,6 @@
 body {
   background-color: #454545;
-  font-family: Game of Thrones;
+  font-family: LEMONMILK;
   text-align: center;
 }
 
@@ -15,14 +15,14 @@ img {
    color: #CCBA78;
    margin: auto;
    padding: 10px;
+   font-family: Game of Thrones;
   }
 .content-paragraph{
       margin: auto;
-      color: #CFB53B;
       font-size: 20px;
       line-height: 26px;
       max-width: 1500px;
-      font-family:LEMONMILK;
+      font-family: LEMONMILK;
   }
 /* Menu */
 header {

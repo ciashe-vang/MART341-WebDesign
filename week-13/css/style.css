@@ -1,5 +1,5 @@
 #header{
-    color: #black
+    color;black
 }
 
 h1{
@@ -152,7 +152,7 @@ header {
 /* footer */
 footer {
     width: 100%;
-    background-color: ##ADBF97;
+    background-color: #ADBF97;
     height: 3em;
     text-align: center;
     font-family: LEMONMILK;
@@ -163,3 +163,15 @@ footer {
     color: #333;
     font-weight: bold;
 }
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    max-width: 85%;
+    margin: auto;
+    column-gap:5%;
+}
+
+  div > .homepage-image {
+    max-width: 100%;
+  }
